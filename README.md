@@ -1,6 +1,6 @@
 # Debian 8 (Jessie) Ansible Test Image
 
-[![Docker Automated build](https://img.shields.io/docker/automated/cdsailer/docker-debian8-ansible.svg?maxAge=2592000)](https://hub.docker.com/r/cdsailer/docker-debian8-ansible/)
+[![Docker Automated build](https://img.shields.io/docker/automated/v0rts/docker-debian8-ansible.svg?maxAge=2592000)](https://hub.docker.com/r/v0rts/docker-debian8-ansible/)
 
 Debian 8 (Jessie) Docker container for Ansible playbook and role testing.
 
